@@ -1,0 +1,17 @@
+{
+  "name": "lovelace-diamant-player",
+  "version": "0.1.0",
+  "description": "Custom lovelace for Home Assistant",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diamant-rabbit/lovelace-diamant-player"
+  },
+  "author": "Dima Nefedov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diamant-rabbit/lovelace-diamant-player/issues"
+  },
+  "homepage": "https://github.com/diamant-rabbit/lovelace-diamant-player#readme"
+}
